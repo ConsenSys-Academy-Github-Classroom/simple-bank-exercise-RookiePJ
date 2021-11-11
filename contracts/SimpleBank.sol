@@ -106,4 +106,4 @@ contract SimpleBank {
       // 2. Transfer Eth to the sender and decrement the withdrawal amount from sender's balance
       // 3. Emit the appropriate event for this message
     }
-}
+}  // end of SimpleBank
